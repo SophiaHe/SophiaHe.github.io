@@ -1,0 +1,40 @@
+[
+  {
+    "path": "posts/2021-01-03-my-post/",
+    "title": "My Post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Sophia He",
+        "url": {}
+      }
+    ],
+    "date": "2021-01-03",
+    "categories": [
+      "test1"
+    ],
+    "contents": "\npost test\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-01-03T01:36:30-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-01-03-my-post2/",
+    "title": "My Post2",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Sophia He",
+        "url": {}
+      }
+    ],
+    "date": "2021-01-03",
+    "categories": [
+      "test1"
+    ],
+    "contents": "\ntest post 2\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-01-03T01:36:21-05:00",
+    "input_file": {}
+  }
+]
