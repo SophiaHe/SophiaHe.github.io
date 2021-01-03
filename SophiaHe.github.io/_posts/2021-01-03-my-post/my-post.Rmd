@@ -1,0 +1,21 @@
+---
+title: "My Post"
+categories:
+  - test1
+description: |
+  A short description of the post.
+author:
+  - name: Sophia He
+date: 01-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+post test
+
